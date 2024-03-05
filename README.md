@@ -17,7 +17,6 @@ I work on mini projects like building a dashboard. So now I can use Google Sheet
 
 ### Mini Projects:
 [Dynamic Query](https://docs.google.com/spreadsheets/d/1JjZF3QjEvoGFdyXS4KiFxV4yzP6JmWGmV1wHmRjckAk/edit#gid=1981431105)
-
 ![ggs_image2](ggs_image2.png)
 
 [Dynamic Filter](https://docs.google.com/spreadsheets/d/1JjZF3QjEvoGFdyXS4KiFxV4yzP6JmWGmV1wHmRjckAk/edit#gid=151074853)
