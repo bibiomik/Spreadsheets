@@ -20,7 +20,6 @@ I work on mini projects like building a dashboard. So now I can use Google Sheet
 ![ggs_image2](ggs_image2.png)
 
 [Dynamic Filter](https://docs.google.com/spreadsheets/d/1JjZF3QjEvoGFdyXS4KiFxV4yzP6JmWGmV1wHmRjckAk/edit#gid=151074853)
-
 ![ggs_image3](ggs_image3.png)
 
 [ID Card Parser](https://docs.google.com/spreadsheets/d/1JjZF3QjEvoGFdyXS4KiFxV4yzP6JmWGmV1wHmRjckAk/edit#gid=2014543270)
